@@ -5,6 +5,6 @@ This is my first repository on the github account.
 3. commands:
    -clone
    -add
-   -commit
+   -commit 
    -push
    -pull
